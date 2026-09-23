@@ -1,5 +1,7 @@
 # Retail Database & Redis Cart Demo
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository showcases two core aspects of modern database management:
 1. **A comprehensive relational schema** for a retail application, using MySQL.
 2. **A fast, in-memory caching mechanism** for a shopping cart using Redis.
@@ -38,4 +40,7 @@ This repository showcases two core aspects of modern database management:
 
 ## Author
 
-**Ajay Prakash** — [ajayprakash.dev](https://ajayprakash.dev)
+**Ajay Prakash**
+* **Education:** M.Tech in Data Science and Engineering, BITS Pilani
+* **Portfolio:** [ajayprakash.dev](https://ajayprakash.dev)
+* **License:** This project is licensed under the MIT License.
