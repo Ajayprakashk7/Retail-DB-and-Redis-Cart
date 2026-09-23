@@ -38,4 +38,4 @@ This repository showcases two core aspects of modern database management:
 
 ## Author
 
-Ajay Prakash (Ajayprakashk7)
+**Ajay Prakash** — [ajayprakash.dev](https://ajayprakash.dev)
